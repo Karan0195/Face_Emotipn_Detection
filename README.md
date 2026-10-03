@@ -7,7 +7,7 @@ Worked on project planning and system design.
 Contributed to the development and implementation of the core modules.
 Assisted with database integration and backend functionality.
 Performed testing, debugging, and documentation.
-#Sharvil Deshmukh
+#Sharvil Deshmukh (https://github.com/Sharvil0921)
 Contributed to AI/ML model development and integration.
 Worked on data preprocessing and model implementation.
 Developed and integrated important project features.
